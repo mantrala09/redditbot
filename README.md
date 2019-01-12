@@ -12,4 +12,4 @@ Currency: Canadian dollar
 
 Languages: English, French
 
-<Link to National Flag>
+(Link to National Flag)
